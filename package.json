@@ -5,7 +5,7 @@
   "main": "server-json.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon server-json.js",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
